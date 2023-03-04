@@ -6,6 +6,7 @@
 devbox.json
 devbox/
 devbox.pem
+.devbox
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
